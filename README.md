@@ -8,5 +8,5 @@
 `./voidpet.sh <voidpet username here>`
 ![Screen Shot 2022-02-11 at 7 51 21 PM](https://user-images.githubusercontent.com/71241229/153689348-06f69d0f-9625-4dfb-aad6-c9ae224d76b8.png)
 ## See output(must be in directory where the script was ran.)
-`cat output.txt`
-![Screen Shot 2022-02-11 at 7 51 53 PM](https://user-images.githubusercontent.com/71241229/153689355-62433f69-14f9-467d-a70f-010bab9f285a.png)
+![Screen Shot 2022-02-11 at 7 55 07 PM](https://user-images.githubusercontent.com/71241229/153689445-c5b00997-d710-49de-bb19-63ada3fe4783.png)
+![Screen Shot 2022-02-11 at 7 55 21 PM](https://user-images.githubusercontent.com/71241229/153689451-84542d63-9509-4dbb-baf0-98e695028079.png)
