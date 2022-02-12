@@ -1,8 +1,9 @@
 # voidput
-## To install/setup
-`git clone https://github.com/bigpecks/voidput/voidpet.sh`
-`chmod +x voidpet.sh`
+## dependencies
+### curl, perl.
+## To install/setup(I think this works on most unix based machines.)
+`git clone https://github.com/bigpecks/voidput/voidpet.sh && chmod +x voidpet.sh`
 ## To use:
 `./voidpet.sh <voidpet username here>`
-## See output
+## See output(must be in directory where the script was ran.)
 `cat output.txt`
